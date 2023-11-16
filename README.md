@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PowerBI,spacy ner**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JihedAI/JihedAI](https://github.com/JihedAI/JihedAI)
+- 👨‍💻 All of my projects are available at [https://github.com/JihedAI/JihedAI](https://github.com/JihedAI/)
 
 - 💬 Ask me about **deep learning**
 
